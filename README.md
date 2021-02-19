@@ -121,8 +121,6 @@ not have direct access to the stylesheet.
  * [Code School - DiscoverDevTools](http://discover-devtools.codeschool.com/)
  * [Specificity Calculator](https://specificity.keegan.st/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/css-graffiti-override' title='CSS Graffiti Override'>CSS Graffiti Override</a> on Learn.co and start learning to code for free.</p>
-
 [tools]: http://discover-devtools.codeschool.com/
 [smash]: http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 [spec-calc]: https://specificity.keegan.st/
